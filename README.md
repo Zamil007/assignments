@@ -1,2 +1,4 @@
-##Cohort 2.0 By One only @Harkirat Bhaiya<br>
-#Assignment week1
+
+# Cohort 2.0
+
+This the cohort to repository where you can find my assignment and week content that is done by me :)
